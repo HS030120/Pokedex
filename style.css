@@ -1,0 +1,38 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: indianred;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+body{
+    background-blend-mode: lighten;
+    background-color: PaleTurquoise;
+}
+
+li{
+	list-style-type: none;
+	border: 2px solid whitesmoke;
+	border-radius: 10px;
+	margin: 4px;
+	padding: 12px;
+}
+
+h3{
+	margin-top: 0;
+    color: salmon;
+    border-bottom-style: solid;
+    border-color: salmon;
+    text-transform: capitalize;
+}
+
+h4{
+    color: steelblue;
+}
